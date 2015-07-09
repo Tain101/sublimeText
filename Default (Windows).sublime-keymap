@@ -1,0 +1,4 @@
+[
+    {"keys": ["ctrl+shift+r"], "command": "swi_debug" },
+    {"keys": ["ctrl+shift+c"], "command": "swi_debug_stop" }
+]

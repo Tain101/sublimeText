@@ -1,0 +1,40 @@
+{
+    "favorite_fonts": [
+        {
+            "name": "Default Font",   // (required) Friendly name for font configuration
+            "font": "slant",          // (required) Font
+            "comment": true,          // Override default setting
+            "comment_style": "block", // Override default comment style
+            "width": 80,              // Override default width
+            "direction": "auto",      // Override default direction
+            "justify": "auto",        // Override default justification
+            "indent": true,           // Override default additional indentation setting
+            "flip": false,            // Flip output
+            "reverse": false          // Reverse output
+        },
+        {
+            "name": "Dr.Pepper",   // (required) Friendly name for font configuration
+            "font": "Dr Pepper",          // (required) Font
+            "comment": true,          // Override default setting
+            "comment_style": "block", // Override default comment style
+            "width": 80,              // Override default width
+            "direction": "auto",      // Override default direction
+            "justify": "auto",        // Override default justification
+            "indent": true,           // Override default additional indentation setting
+            "flip": false,            // Flip output
+            "reverse": false          // Reverse output
+        },
+        {
+            "name": "3D",   // (required) Friendly name for font configuration
+            "font": "Larry 3D",          // (required) Font
+            "comment": true,          // Override default setting
+            "comment_style": "block", // Override default comment style
+            "width": 80,              // Override default width
+            "direction": "auto",      // Override default direction
+            "justify": "auto",        // Override default justification
+            "indent": true,           // Override default additional indentation setting
+            "flip": false,            // Flip output
+            "reverse": false          // Reverse output
+        }
+    ]
+}

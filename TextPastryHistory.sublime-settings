@@ -1,0 +1,27 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": ""
+				},
+				"command": "text_pastry_date_range",
+				"text": "day"
+			},
+			"key": "628b7db04235f228d40adc671413a8c8",
+			"label": "day"
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": ""
+		},
+		"command": "text_pastry_date_range",
+		"text": "day"
+	}
+}

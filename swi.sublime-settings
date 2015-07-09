@@ -1,0 +1,135 @@
+{
+	"breakpoint_scope": "swi.breakpoint",
+	"breaks":
+	{
+		"C:\\Users\\Tain\\Documents\\GitHub\\Checkers\\MultiGame.js":
+		{
+			"162":
+			{
+				"status": "disabled"
+			},
+			"172":
+			{
+				"status": "disabled"
+			},
+			"211":
+			{
+				"status": "disabled"
+			}
+		},
+		"C:\\Users\\Tain\\Documents\\GitHub\\Checkers\\game.js":
+		{
+			"267":
+			{
+				"status": "disabled"
+			}
+		},
+		"C:\\Users\\Tain\\Documents\\GitHub\\Checkers\\team.js":
+		{
+		},
+		"C:\\Users\\Tain\\Dropbox\\Public\\Html5\\Checkers\\Piece.js":
+		{
+			"37":
+			{
+				"status": "disabled"
+			}
+		},
+		"C:\\Users\\Tain\\Dropbox\\Public\\Html5\\Checkers\\game.js":
+		{
+		},
+		"C:\\Users\\Tain\\Dropbox\\Public\\Html5\\Checkers\\team.js":
+		{
+		}
+	},
+	"chrome_path":
+	{
+		"linux": "/usr/bin/google-chrome",
+		"osx": "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+		"windows": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe",
+		"windows_x64": "C:\\Program Files (x86)\\Google\\Chrome\\Application\\chrome.exe"
+	},
+	"chrome_profile": "Default",
+	"chrome_remote_port": "9222",
+	"console_layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.6,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"current_line_scope": "swi.current",
+	"debug_mode": false,
+	"interactive_scope": "mcol_0088CCFF.settings",
+	"open_stack_current_in_new_tab": false,
+	"pause_on_exceptions": "uncaught",
+	"reload_on_save": true,
+	"reload_on_start": false,
+	"reload_timeout": 0,
+	"set_script_source": false,
+	"stack_layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				2,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			],
+			[
+				1,
+				1,
+				2,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.6,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.7,
+			1.0
+		]
+	},
+	"user_agent": ""
+}

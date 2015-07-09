@@ -1,0 +1,42 @@
+{
+	"afterglow_folder_icons": true,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": false,
+	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai Low-Profile Gray (SL).tmTheme",
+	"colored_folder_glyphs": true,
+	"contrasted_light_sidebar": false,
+	"contrasted_quick_panel": false,
+	"contrasted_sidebar": true,
+	"contrasted_tabs": true,
+	"detect_indentation": false,
+	"disable_colored_folder_labels": true,
+	"disable_colored_group_labels": true,
+	"fade_fold_buttons": false,
+	"find_selected_text": false,
+	"font_face": "Source Code Pro Light",
+	"font_size": 18,
+	"highlight_modified_tabs": true,
+	"icon_file_type_enable": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"large_scroll_bars": false,
+	"origami_auto_close_empty_panes": true,
+	"origami_auto_zoom_on_focus": 0.6,
+	"overlay_scroll_bars": false,
+	"shift_tab_unindent": true,
+	"sidebar_folders": false,
+	"small_ui_font": false,
+	"tab_completion": true,
+	"tab_size": 4,
+	"tabs_large": false,
+	"tabs_medium": false,
+	"theme": "Nil.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}
