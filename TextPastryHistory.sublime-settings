@@ -13,15 +13,30 @@
 			},
 			"key": "628b7db04235f228d40adc671413a8c8",
 			"label": "day"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "reduce ",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "reduce "
+			},
+			"key": "01dfc2c37e60dededaa543d352d5c061",
+			"label": "reduce "
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": ""
+			"text": "reduce ",
+			"threshold": 3
 		},
-		"command": "text_pastry_date_range",
-		"text": "day"
+		"command": "text_pastry_insert_text",
+		"text": "reduce "
 	}
 }

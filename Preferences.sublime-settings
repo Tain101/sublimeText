@@ -14,12 +14,13 @@
 	"fade_fold_buttons": false,
 	"find_selected_text": false,
 	"font_face": "Source Code Pro Light",
-	"font_size": 18,
+	"font_size": 21,
 	"highlight_modified_tabs": true,
 	"icon_file_type_enable": true,
 	"ignored_packages":
 	[
-		"Vintage"
+		"Vintage",
+		"AngularJS"
 	],
 	"indent_guide_options":
 	[

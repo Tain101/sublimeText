@@ -9,12 +9,14 @@
 		"AngularJS",
 		"AngularJS Snippets",
 		"ASCII Decorator",
+		"BeautifyRuby",
 		"BracketHighlighter",
 		"Browser Refresh",
 		"Compare Side-By-Side",
 		"CSS Format",
 		"CSS Snippets",
 		"DocBlockr",
+		"ERB Snippets",
 		"Fold Comments",
 		"HTML Snippets",
 		"HTML-CSS-JS Prettify",
@@ -25,6 +27,7 @@
 		"JsFormat",
 		"JSX",
 		"Keymaps",
+		"Markdown Preview",
 		"Monocyanide Colorscheme",
 		"Monokai JSON+",
 		"Origami",
@@ -32,6 +35,7 @@
 		"PackageResourceViewer",
 		"Pretty JSON",
 		"Schemr",
+		"SFTP",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeGit",
@@ -52,7 +56,6 @@
 		"Trimmer",
 		"VBScript",
 		"Verilog",
-		"View In Browser",
-		"Web Inspector"
+		"View In Browser"
 	]
 }
