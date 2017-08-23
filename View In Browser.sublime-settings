@@ -28,5 +28,5 @@
         }
     },
 
-    "browser": "chrome64"
+    "browser": "firefox"
 }

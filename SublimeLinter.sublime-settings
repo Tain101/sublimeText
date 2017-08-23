@@ -8,10 +8,15 @@
         "lint_mode": "background",
         "linters": {
             "javac": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": [],
                 "lint": ""
+            },
+            "jscs": {
+                "@disable": false,
+                "args": [],
+                "excludes": []
             },
             "jshint": {
                 "@disable": false,
@@ -19,7 +24,7 @@
                 "excludes": []
             },
             "jsxhint": {
-                "@disable": false,
+                "@disable": true,
                 "args": [],
                 "excludes": []
             }

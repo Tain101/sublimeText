@@ -1,0 +1,70 @@
+2016-04-04 02:26:17
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 92, in run_with_except
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1062, in do_checkout
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1262, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1065, in do_read
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 694, in write
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/win32.py", line 183, in write
+BufferError: Error writing to console: The handle is invalid.
+2016-04-04 02:26:57
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 92, in run_with_except
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1062, in do_checkout
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1262, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1065, in do_read
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 694, in write
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/win32.py", line 183, in write
+BufferError: Error writing to console: The handle is invalid.
+2016-04-04 02:28:15
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 92, in run_with_except
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1062, in do_checkout
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1262, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1065, in do_read
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 694, in write
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/win32.py", line 183, in write
+BufferError: Error writing to console: The handle is invalid.
+2016-04-04 02:28:30
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 92, in run_with_except
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1062, in do_checkout
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1262, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1065, in do_read
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 694, in write
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/win32.py", line 183, in write
+BufferError: Error writing to console: The handle is invalid.
+2016-04-04 02:29:16
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 92, in run_with_except
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1062, in do_checkout
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1262, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1065, in do_read
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 694, in write
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/win32.py", line 183, in write
+BufferError: Error writing to console: The handle is invalid.
+2016-04-04 02:31:34
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 92, in run_with_except
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1062, in do_checkout
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1262, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1065, in do_read
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 694, in write
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/win32.py", line 183, in write
+BufferError: Error writing to console: The handle is invalid.
+2016-04-04 02:32:06
+Traceback (most recent call last):
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 20, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/threads.py", line 92, in run_with_except
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/commands.py", line 1062, in do_checkout
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1262, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 1065, in do_read
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/proc.py", line 694, in write
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SVN/sublimesvn/win32.py", line 183, in write
+BufferError: Error writing to console: The handle is invalid.

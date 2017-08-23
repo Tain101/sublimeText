@@ -170,7 +170,7 @@
      * ['git', 'flow']
      */
     "git_executables": {
-        "git": ["C:\\Program Files (x86)\\Git\\bin\\git.exe"],
+        "git": ["G:\\Program Files\\Git\\bin\\git.exe"],
         "git_flow": ["git-flow"],
         "legit": ["legit"],
         "gitk": ["gitk"]
