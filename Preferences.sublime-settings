@@ -3,6 +3,17 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete_commit_on_tab": true,
 	"auto_complete_cycle": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": "\\",
+			"selector": "text.tex.latex"
+		}
+	],
 	"bold_folder_labels": false,
 	"color_scheme": "Packages/User/Color Highlighter/themes/Monokai void.tmTheme",
 	"colored_folder_glyphs": true,
@@ -17,7 +28,11 @@
 	"fade_fold_buttons": false,
 	"find_selected_text": false,
 	"font_face": "Source Code Pro Light",
-	"font_size": 22,
+	"font_options":
+	[
+		"directwrite"
+	],
+	"font_size": 16,
 	"highlight_modified_tabs": true,
 	"icon_file_type_enable": true,
 	"ignored_packages":
